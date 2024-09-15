@@ -64,7 +64,7 @@ This project highlights the substantial impact of e-commerce on traditional reta
 
 ## Contact
 
-For questions or feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourusername) or open an issue in this repository.
+For questions or feedback, feel free to reach out via [LinkedIn]((https://www.linkedin.com/in/rayyan-mohsin-1206b6277/)) or open an issue in this repository.
 
 ---
 
